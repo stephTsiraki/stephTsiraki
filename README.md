@@ -1,16 +1,24 @@
-### Hi there 👋
+![natterstefan](https://res.cloudinary.com/stephtsiraki/image/upload/v1642199208/Postal_damasco_y_coral_ilustrada_de_la_puna_bgm60w.gif)
 
-<!--
-**stephTsiraki/stephTsiraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Views](https://komarev.com/ghpvc/?username=stephTsiraki&color=2685BF)
 
-Here are some ideas to get you started:
+## Hi there 👋🏻,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Chilean programming and enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
+
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/stephaniermerida](https://www.linkedin.com/in/stephaniermerida)
+- Instagram: [instagram.com/steph_meryda/](https://www.instagram.com/steph_meryda/)
+
+
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/stephTsiraki/stephTsiraki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephTsiraki&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+
+<a href="https://github.com/stephTsiraki/stephTsiraki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephTsiraki&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="stephTsiraki's GitHub Stats" />
+</a>
